@@ -1,0 +1,27 @@
+{
+	"description": "**Please select from menu**",
+	"embed": "**Done created option in menu successfully** ✅",
+	"languageChanged": "**language changed to english successfully ✅**",
+	"option": "select an option",
+	"permission": "** Nah you dont have permissions sorry😒**",
+	"nodata": "** No menu data found for this server. 😒**",
+	"nochoose": "** Please provide a language option. 😒**",
+	"invalidLanguage": "**invalidLanguage write like arabic or english ****" , 
+	"menu": "** choose from menu 😒**" ,
+	"max": "** You have reached the maximum number of menus you can add more menu by __buying the premium one__ 😒**" ,
+	"done": "**Done sent successfully ✅**" ,
+	"prem": "**  Here these are prices for premium one**" ,
+    "name1": "** Advantages of premium one**" ,
+    "fei1": "**  You can create more than 6 menu **" ,
+    "name2": "** Advantages of premium one**" ,
+    "fei2": "** You can use emoji command and added it to your menu**" ,
+    "fei3": "** You can use ticket system with menu**" ,
+    "name3": "** Advantages of premium one**" , 
+    "buy": "** The prices of premium menu bot are: \n For 1 months -- 2 Dollar \n\n for one year ---- 5 Dollar \n\n To buy please send the money to this account Paypal [mybook957@yahoo.com]**" ,
+	"forbuy": "**Buying premium**" , 
+	"button": "** To buy please send the money to this account Paypal [mybook957@yahoo.com]**"
+
+
+
+
+}
